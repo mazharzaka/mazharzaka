@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi, I'm Mazhar — a Frontend Web Developer
 
-<!--
-**mazharzaka/mazharzaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I specialize in building modern and responsive web applications using **React, Next.js, Angular, and TypeScript**.
+🎯 I focus on clean code, performance optimization, and seamless user experience.
+🌱 Currently expanding my skills with **React Native** and building full-stack projects using the **MEAN/MERN Stack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+* 🛍️ [E-commerce Store (MEAN Stack)](https://github.com/mazharzaka/ecomm-mean)
+* 🤝 [CharityHub Web Platform](https://github.com/mazharzaka/charityhub)
+* 🏨 [Hotel Booking System](https://github.com/mazharzaka/hotel-booking-app)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+
+**Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+
+**Other Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mazharzaka&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharzaka&layout=compact&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=mazharzaka&theme=dracula" height="150" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:mazharszaka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mazharzaka)
+
+---
+
+<img src="https://raw.githubusercontent.com/mazharzaka/mazharzaka/output/snake.svg" alt="Snake animation" />
