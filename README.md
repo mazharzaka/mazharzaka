@@ -1,11 +1,7 @@
 <h2 align="left">Hi 👋! My name is mazhar and I'm a frontend web developer</h2>
 
 ###
-<p align="left">
-  🚀 I specialize in building modern and responsive web applications using <strong>React, Next.js, Angular, and TypeScript</strong>. <br>
-  🎯 My focus is on clean code, performance optimization, and seamless user experience. <br>
-  🌱 Currently expanding my skills with <strong>React Native</strong> and building full-stack projects using the <strong>MEAN/MERN Stack</strong>.
-</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mazharzaka&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazharzaka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
